@@ -1,0 +1,8 @@
+track primEC
+bigDataUrl primEC.bb
+shortLabel primEC
+longLabel primEC
+type bigBed 12
+visibility dense
+itemRgb on
+
